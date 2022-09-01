@@ -1,0 +1,43 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    text-align: center;
+    width: 100%;
+    height: 10%;
+}
+.underline{
+text-decoration: underline;
+}
+.red_text{
+    color: red;
+    font-weight: bold;
+}
+.orange_text{
+    background-color: orange;
+    font-weight: bold;
+}
+
+.bonk{
+    width:100%;
+    height: 100%;
+    background: -webkit-linear-gradient(left, rgba(255,228,181), rgb(173, 216, 230));
+    
+}
+#prince{
+    width: 500px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+div{
+    width: 50%;
+    height: 50%;
+    margin-right: auto;
+    margin-left: 500px;
+    text-align: center;
+}
